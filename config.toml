@@ -1,3 +1,6 @@
-baseurl = "http://yourSiteHere"
+baseurl = "http://craigwickesser.com"
 languageCode = "en-us"
-title = "my new hugo site"
+title = "devnotes"
+
+[Params]
+Description = "ramblings"
